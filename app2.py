@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Kalkulator Sederhana")
+st.title("Kalkulator Easy Euy")
 st.write("Aplikasi ini menghitung operasi dasar matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.")
 
 # Input angka pertama
